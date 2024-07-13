@@ -1,2 +1,2 @@
 console.log("Hello Samir");
-console.log("Hello JS3");
+console.log("Hello JS2");
